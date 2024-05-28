@@ -3,7 +3,7 @@
 
 <h3 align="center">Tron Wallet Connect</h3>
 <p align="center">
-React 18 Template with Tron Wallet Connect and Tronweb,
+React 18 Template with Tron Wallet Connect and Tronweb.
 
 </p>
 </div>
