@@ -11,7 +11,7 @@ React 18 Template with Tron Wallet Connect and Tronweb.
 ### Prerequisites
 
 The sample app includes Tron wallet connect along with Tronweb.
-Use Yarn instead of npm to install the packages to avoid any packages
+Use Yarn instead of npm to install the packages to avoid any package conflicts.
 
 - yarn
   ```sh
